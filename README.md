@@ -6,7 +6,7 @@
 ## 🎄 What is Advent of Code?
 
 Advent of Code is an annual programming challenge created by Eric Wastl. Each
-December, from December 1st to December 25th (12th starting 2025), a new **programming puzzle** is
+December, from 1st to 25th (or 1st-12th) of December a new **programming puzzle** is
 released **daily**. These challenges are designed to help programmers improve
 their skills, explore new programming concepts, and have fun while coding.
 
@@ -18,7 +18,7 @@ This repository is part of a structured learning experience to:
 - Explore different approaches to solving computational challenges
 - Build a portfolio of programming projects
 
-> Based on the SKIP provideCommunityd repo template
+> Based on the SKIP provided Community repository template
 
 ## 🌟 My Advent of Code
 
