@@ -110,10 +110,10 @@ This repository is part of a structured learning experience to:
 </details>
 
 <details>
-<summary>2015 - 1/25</summary>
+<summary>2015 - 2/25</summary>
 
 - [X] Day 1
-- [ ] Day 2
+- [X] Day 2
 - [ ] Day 3
 - [ ] Day 4
 - [ ] Day 5
