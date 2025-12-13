@@ -30,7 +30,7 @@ This repository is part of a structured learning experience to:
 ## 🏆 Tracking Progress
 
 <details>
-<summary>2025 - 11/12</summary>
+<summary>2025 - 12/12</summary>
 
 - [X] Day 1
 - [X] Day 2
@@ -43,7 +43,7 @@ This repository is part of a structured learning experience to:
 - [X] Day 9
 - [X] Day 10
 - [X] Day 11
-- [ ] Day 12
+- [X] Day 12
 
 </details>
 
